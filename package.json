@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-shehzad",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "ESLint rules to bring a level of consistency to the various projects!",
   "main": "index.js",
   "scripts": {
